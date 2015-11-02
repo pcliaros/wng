@@ -1,0 +1,6 @@
+L:\GitHub\wng\NumericSequenceCalculator\NumericSequenceCalculator\bin\NumericSequenceCalculator.dll.config
+L:\GitHub\wng\NumericSequenceCalculator\NumericSequenceCalculator\bin\NumericSequenceCalculator.dll
+L:\GitHub\wng\NumericSequenceCalculator\NumericSequenceCalculator\bin\NumericSequenceCalculator.pdb
+L:\GitHub\wng\NumericSequenceCalculator\NumericSequenceCalculator\obj\Debug\NumericSequenceCalculator.csprojResolveAssemblyReference.cache
+L:\GitHub\wng\NumericSequenceCalculator\NumericSequenceCalculator\obj\Debug\NumericSequenceCalculator.dll
+L:\GitHub\wng\NumericSequenceCalculator\NumericSequenceCalculator\obj\Debug\NumericSequenceCalculator.pdb

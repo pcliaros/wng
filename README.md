@@ -1,2 +1,0 @@
-# wng
-Numeric Sequence Calculator
